@@ -413,4 +413,8 @@ footer {
        .stats-content {
        padding: 0 2rem;
     }
+
+    .community-btn button{
+        width: 35vw;
+    }
 }
